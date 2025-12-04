@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ふめつのこころ(SLOWDOWN)",
+  "base_artist": "tofubeats",
+  "createdAt": "2025-12-04T02:29:31.403944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ふめつのこころ Slowdown",
+      "artist": "tofubeats",
+      "has_synced": false,
+      "path": "select/01_ふめつのこころ_Slowdown_tofubeats.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふめつのこころ AI VERSION",
+      "artist": "tofubeats",
+      "has_synced": false,
+      "path": "select/pl_01_ふめつのこころ_AI_VERSION_tofubeats.txt"
+    }
+  ]
+}
